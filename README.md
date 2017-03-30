@@ -1,5 +1,5 @@
 # critter
-Crtitter is a basic app to explore inside k8s clusters
+Crtitter is a basic app to explore inside k8s clusters through its APIs
 
 Go-client 
 ### For the casual user
