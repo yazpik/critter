@@ -1,10 +1,13 @@
 # critter
-Crtitter is a basic app to explore inside k8s clusters through its APIs
+(In development) Crtitter is a basic app to explore inside k8s clusters through its APIs
 
 #### Go-client 
 ```
 examples/golang
 ```
+See
+https://github.com/kubernetes/client-go/blob/master/INSTALL.md
+
 
 #### python client
 ```
