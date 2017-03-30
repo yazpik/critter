@@ -8,6 +8,9 @@ examples/golang
 See
 https://github.com/kubernetes/client-go/blob/master/INSTALL.md
 
+or Eric Chiang library
+
+https://github.com/ericchiang/k8s
 
 #### python client
 ```
